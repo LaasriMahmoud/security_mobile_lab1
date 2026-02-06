@@ -18,7 +18,7 @@ Détails de la configuration dans VirtualBox.
 Au lancement, le système charge l'interface de connexion personnalisée de Mobexler.
 
 Interface de login Mobexler "For Hackers by Hackers".
-![Ecran de login Mobexler](./3.jpg)
+![Ecran de login Mobexler](./3.png)
 # 4. Tests de Connectivité
 Il est crucial de vérifier que la machine peut communiquer avec l'extérieur et avec la machine hôte.
 
